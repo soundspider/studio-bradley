@@ -52,8 +52,8 @@ export default function Contact() {
             No pressure, no commitments — just a conversation.
           </p>
           <div className={styles.contactInfo}>
-            <a href="mailto:hello@studiobradley.com" className={styles.email}>
-              hello@studiobradley.com ↗
+            <a href="mailto:studiobradley900@gmail.com" className={styles.email}>
+              studiobradley900@gmail.com ↗
             </a>
           </div>
         </div>

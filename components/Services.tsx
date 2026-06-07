@@ -1,12 +1,11 @@
 import styles from './Services.module.css'
 
 const SERVICES = [
-  { num: '01', name: 'Web design & UI/UX', desc: 'Sites that look great and feel effortless to navigate. From wireframe to live product.' },
-  { num: '02', name: 'Graphic design', desc: 'Visuals that make people stop and look twice. Print, digital, and everything in between.' },
-  { num: '03', name: 'Brand identity', desc: 'Logos, color systems, typography, and brand guides that anchor your business.' },
-  { num: '04', name: 'Video editing', desc: 'Raw footage turned into content worth watching. Reels, promos, and brand films.' },
-  { num: '05', name: 'Content management', desc: 'Consistent brand voice across every platform, handled end-to-end.' },
-  { num: '06', name: 'Social media', desc: 'Posts, strategy, scheduling, and analytics — your entire social presence, managed.' },
+  { num: '01', name: 'Designing Landing Page', desc: 'High-converting, visually stunning landing pages designed to turn visitors into clients.' },
+  { num: '02', name: 'Logo Design', desc: 'Memorable logos that capture your brand personality and leave a lasting impression.' },
+  { num: '03', name: 'Graphic Design (Print and Digital)', desc: 'From social media visuals to print materials — designs that communicate and convert.' },
+  { num: '04', name: 'Video Editing', desc: 'Raw footage transformed into compelling content. Reels, promos, and brand films.' },
+  { num: '05', name: 'Web Content Management', desc: 'Keeping your website fresh, updated, and consistent with your brand voice.' },
 ]
 
 export default function Services() {
